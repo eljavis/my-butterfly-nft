@@ -1,0 +1,15 @@
+{
+    "name": "Butterfly Pupa",
+    "description": "Butterfly NFT is sleeping",
+    "image": "https://pink-managerial-roadrunner-465.mypinata.cloud/ipfs/bafkreih2gcssers2wyksq4vqe5olyq3d62wtk5543gzd4j4ccvzpiuydjq",
+    "attributes": [
+        {
+            "trait-type": "PupaStage",
+            "value": "Hibernating"
+        },
+        {
+            "trait-type": "PupaColor",
+            "value": "Dark Olive with Brown Spots"
+        }
+    ]
+}

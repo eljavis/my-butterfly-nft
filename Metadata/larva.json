@@ -1,0 +1,15 @@
+{
+    "name": "Butterfly Larva",
+    "description": "Butterfly NFT is going to take a new step",
+    "image": "https://pink-managerial-roadrunner-465.mypinata.cloud/ipfs/bafkreifk5ggovx3f2qyizmrfmixjk2ovorl6cpdimsbr262wmq62dlsani",
+    "attributes": [
+        {
+            "trait-type": "LarvaStage",
+            "value": "Growing"
+        },
+        {
+            "trait-type": "LarvaColor",
+            "value": "Light olive with black and yellow spots"
+        }
+    ]
+}

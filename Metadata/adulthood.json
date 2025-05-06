@@ -1,0 +1,15 @@
+{
+    "name": "Adult Butterfly",
+    "description": "Our NFT has grown up and is beautiful butterfly",
+    "image": "https://pink-managerial-roadrunner-465.mypinata.cloud/ipfs/bafkreigtyzug55x7ocwubaq2ttqqbxo2y7qvkoskn66hypcmwsz622zou4",
+    "attributes": [
+        {
+            "trait-type": "AdultStage",
+            "value": "adulthood"
+        },
+        {
+            "trait-type": "ButterflyColor",
+            "value": "Coffee with black and white spots"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Butterfly Egg",
+    "description": "An NFT based on the early life stages of a butterfly.",
+    "image": "https://pink-managerial-roadrunner-465.mypinata.cloud/ipfs/bafkreihqj7z3eim4ziazinosrbmctflyybgz225o5fzyb4a2tyjy5gncha",
+    "attributes": [
+        {
+            "trait-type": "EggStage",
+            "value": "Egg"
+        },
+        {
+            "trait-type": "EggColor",
+            "value": "Olive"
+        }
+    ]
+}
